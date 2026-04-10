@@ -1,5 +1,5 @@
 
-# BeSync Releases\
+# BeSync Releases
 \
 Official releases for BeSync ERP.
 \
