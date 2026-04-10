@@ -1,7 +1,7 @@
 
-\f0\fs24 \cf0 # BeSync Releases\
+# BeSync Releases\
 \
-Official releases for BeSync ERP.\
+Official releases for BeSync ERP.
 \
 ## Platforms\
 - Windows (.exe)\
