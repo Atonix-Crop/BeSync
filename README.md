@@ -2,13 +2,13 @@
 # BeSync Releases
 \
 Official releases for BeSync ERP.
-\
-## Platforms\
+
+## Platforms
 - Windows (.exe)\
 - macOS (.dmg)\
 \
-## Download\
-Check the Releases section.\
+## Download
+Check the Releases section.
 \
-## Website\
+## Website
 https://besync.in}
